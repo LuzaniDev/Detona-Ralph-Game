@@ -20,6 +20,6 @@
 - Se Divirta
 ---
 # Apresentação do game
-![]()
+![Apresentação Detona Ralph.png](https://github.com/LuzaniDev/Detona-Ralph-Game/blob/main/apresenta%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o%20Detona%20Ralph.png)
 
 
